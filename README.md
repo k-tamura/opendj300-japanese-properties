@@ -2,4 +2,3 @@
 OpenDJ 3.0.0 Japanese properties
 
 Under constructing
-現在作成中。
